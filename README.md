@@ -1,11 +1,11 @@
-#Bank Customer Churn - Power BI Dashboard
+# Bank Customer Churn - Power BI Dashboard
 
-##Descripción del Proyecto
+## Descripción del Proyecto
 Este proyecto de Inteligencia de Negocios analiza la tasa de abandono (Churn Rate) de los clientes de una institución bancaria. El objetivo es identificar los factores demográficos y financieros que influyen en la decisión de un cliente de cerrar su cuenta, proporcionando insights clave para el departamento de retención y marketing.
 
 **Dataset utilizado:** Banking Customer Churn Prediction de Kaggle.
 
-##Problema de Negocio
+## Problema de Negocio
 El banco busca reducir la fuga de clientes. Para ello, necesita responder a las siguientes preguntas:
 
 - ¿Cuál es la tasa de abandono actual del banco?
@@ -22,7 +22,7 @@ Según el gráfico de "Suma de Balance", los 2 mil clientes que abandonaron acum
 - ¿Qué rango de edad representa el mayor riesgo de fuga?
 El segmento de los 50 años representa el pico máximo de riesgo de fuga, con una tasa de abandono que supera el 50 % a nivel global. Esta situación es aún más crítica en Alemania, donde el abandono en este mismo rango de edad se acerca al 70 %.
 
-##Herramientas Utilizadas
+## Herramientas Utilizadas
 - **Power BI:** Limpieza de datos (Power Query), modelado, cálculos (DAX) y visualización.
 - **Kaggle:** Fuente de datos.
 
