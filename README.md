@@ -16,7 +16,7 @@ Las clientas presentan una tasa de abandono significativamente superior (25,07%)
 Alemania registra el mayor riesgo geográfico con una tasa de abandono del 32,44% y la mayor proporción de clientes perdidos en relación con su base.
 Francia y España muestran niveles de retención más saludables, con tasas de abandono del 16,15% y 16,67% respectivamente.
 
--¿Los clientes con mayor saldo en su cuenta tienen mayor o menor probabilidad de irse?
+- ¿Los clientes con mayor saldo en su cuenta tienen mayor o menor probabilidad de irse?
 Según el gráfico de "Suma de Balance", los 2 mil clientes que abandonaron acumulaban un saldo total cercano a los 18 mil millones, mientras que los 8 mil clientes activos suman aproximadamente 55 mil millones. Esto indica que el saldo promedio por cliente es más alto entre los que se dan de baja en comparación con los que permanecen activos.
 
 - ¿Qué rango de edad representa el mayor riesgo de fuga?
